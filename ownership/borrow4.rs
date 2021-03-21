@@ -3,7 +3,7 @@ fn change(v: &mut Vec<i32>) {
 }
 
 fn main() {
-    let mut v = vec![1,2,3];
+    let mut v = vec![1, 2, 3];
 
     change(&mut v);
 
